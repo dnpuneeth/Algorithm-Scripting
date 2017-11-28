@@ -1,1 +1,1 @@
-This Repo includes the Data-Structures and Algorithms implmented with least number of bin functions. 
+This Repo includes the Data-Structures and Algorithms implemented with least number of bin functions. 
