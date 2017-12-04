@@ -39,6 +39,3 @@ def partition(arr, first, last)
 
     return rightmark
 end
-
-puts(quicksort([54,26,93,17,77,31,44,55,20]))
-
